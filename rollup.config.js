@@ -18,6 +18,6 @@ export default {
   output: {
     dir: 'dist',
     format: 'umd',
-    name: 'test',
+    name: 'isomorphicFetch',
   },
 };
